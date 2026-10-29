@@ -4,4 +4,4 @@ def greet(name):
 print("Hello, Git!")
 greet("홍길동")
 
-print(f"{user}로그아웃")
+def logout(user):/ print(f"{user}로그아웃")
